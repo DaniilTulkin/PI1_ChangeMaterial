@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_ChangeMaterial</Name>
+		<Assembly>PI1_ChangeMaterial.dll</Assembly>
+		<AddInId>BDE41C53-48CB-4999-B4D6-45EB450B9D62</AddInId>
+		<FullClassName>PI1_ChangeMaterial.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
